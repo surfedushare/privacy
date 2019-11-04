@@ -6,10 +6,12 @@ In het zoekportaal kunnen docenten gemakkelijk leermaterialen zoeken, vinden en 
 
 ## 2 Persoonsgegevens
 ### Welke gegevens gebruiken we en waarom?
-Onderwijsinstellingen die binnen de doelgroep van SURFnet vallen zijn in 2019 in de gelegenheid gesteld om deel te nemen aan de Pilot zoekportaal voor open leermaterialen. De onderwijsinstelling stelt binnen deze pilot eigen doelstellingen vast rond het gebruik van het zoekportaal en is in het kader van de Algemene verordening gegevensbescherming (AVG) de verwerkingsverantwoordelijke. SURFnet voorziet in de technische infrastructuur rondom Edubadges en treedt in het kader van de AVG op als verwerker. 
+Onderwijsinstellingen die binnen de doelgroep van SURFnet vallen zijn in 2019 in de gelegenheid gesteld om deel te nemen aan de Pilot zoekportaal voor open leermaterialen. De onderwijsinstelling stelt binnen deze pilot eigen doelstellingen vast rond het gebruik van het zoekportaal en is in het kader van de Algemene verordening gegevensbescherming (AVG) de verwerkingsverantwoordelijke. SURFnet voorziet in de technische infrastructuur rondom het zoekportaal en treedt in het kader van de AVG op als verwerker.
+
 Voor de werking van het zoekportaal zijn het IP-adres en de browser agent vereist. Deze persoonsgegevens worden verwerkt voor:
 1)	Het kunnen detecteren van problemen met de software en het gerichter helpen van gebruikers die tegen problemen aanlopen.
 2)	Het voorkomen en achterhalen van misbruik van de systemen binnen de Pilot zoekportaal voor open leermaterialen.
+
 Deze persoonsgegevens worden uitsluitend verwerkt in het kader van de Pilot zoekportaal voor open leermaterialen. De grondslag voor verwerking van deze persoonsgegevens is gerechtvaardigd belang. 
 
 ### Hoe lang gebruiken we je gegevens?
